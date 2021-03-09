@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(img/p13-1-scaled.jpeg);
+}
+.boxregosrtation{
+width: 800px;
+height: 700px;
+background-color: rgba(245, 222, 179, 0.644);
+position: absolute;
+left: 0%;
+right: 0%;
+margin: 0 auto;
+margin-top: 10%;
+}
+.boxregosrtation h1{
+    text-align: center;
+    font-size: 64px;
+    font-family: 'Playfair Display', serif;
+}
+.boxregosrtation label{
+    font-size: 42px;
+    font-family: 'Teko', sans-serif;
+}
+.boxregosrtation button{
+    position: relative;
+    left: 44%;
+    width: 100px;
+    height: 40px;
+    font-size: 24px;
+    font-family: 'Teko', sans-serif;
+    text-align: center;
+}
